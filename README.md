@@ -78,3 +78,6 @@ npm run dev -- --host 127.0.0.1 --port 5173
 ```powershell
 python scripts/seed_demo.py
 ```
+
+
+Maintained by evilshadow468-lgtm
